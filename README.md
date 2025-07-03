@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <div>JavaScript</div>
   </div>
   <div style="flex: 1 0 25%; text-align: center; margin-bottom: 20px;">
-    <img src="https://fake-url.com/docker.svg" alt="Docker" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
     <div>Docker</div>
   </div>
 
