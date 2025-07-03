@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <div>Node.js</div>
   </div>
   <div style="flex: 1 0 25%; text-align: center; margin-bottom: 20px;">
-    <img src="https://fake-url.com/typescript.svg" alt="TypeScript" width="45" height="45" />
+    <img src="https://www.flaticon.com/free-icon/typescript_5968381?term=programming&page=1&position=53&origin=tag&related_id=5968381" alt="TypeScript" width="45" height="45" />
     <div>TypeScript</div>
   </div>
   <div style="flex: 1 0 25%; text-align: center; margin-bottom: 20px;">
