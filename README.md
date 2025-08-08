@@ -74,8 +74,8 @@ Currently working on **X Sport Group** project and learning **Docker**.
 ---
 
 ## 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/amirkalantar96)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirkalantar96/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:amirkalantar96@gmail.com)
 [![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/amirkalantar96)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/amirkalantar96/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:amirkalantar96@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=x&logoColor=white)](https://x.com/amirkalantar96)
