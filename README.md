@@ -1,4 +1,4 @@
-# Hi there, I'm Amir 👋
+# Hi there, I'm amir
 
 👨‍💻 I'm a software developer specializing in **Node.js**, **TypeScript**, **JavaScript**, **GraphQL**, and **Linux (Ubuntu)**.  
 🧩 I enjoy tackling challenging problems, dedicating focused time to find effective solutions, and designing clean algorithms and scalable system architectures.  
