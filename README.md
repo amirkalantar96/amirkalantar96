@@ -1,6 +1,7 @@
 # Hi there, I'm amir
 
-👨‍💻 I'm a software developer specializing in **Node.js**, **TypeScript**, **JavaScript**, **GraphQL**, and **Linux (Ubuntu)**.  
+👨‍💻 I’m a programmer, software developer, and software architect with an entrepreneurial mindset, focused on designing solutions that create real value and scale with purpose.
+  
 🧩 I enjoy tackling challenging problems, dedicating focused time to find effective solutions, and designing clean algorithms and scalable system architectures.  
 
 📅 Discipline and planning are key values in my workflow. 🎯 My long-term goal is to become a developer who not only writes code but also architects and builds impactful software from the ground up.
